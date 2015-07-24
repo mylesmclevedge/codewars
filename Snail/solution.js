@@ -8,6 +8,7 @@ snail = function(arr) {
   var f = incr;
   var i = 0;
   
+  //loops through outside of array
   while( round < arr.length * 2 ) {
     i = 0;
     if(round % 2 == 0) {
